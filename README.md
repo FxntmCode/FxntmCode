@@ -1,4 +1,4 @@
-# 🧬 Привет! Я fxntmc0de - Будущий Киберзащитник 🛡️
+# 🧬 Привет! Я fxntmc0de - студент в сфере информационной безопасности 🛡️
 
 <div align="center">
 
@@ -14,19 +14,6 @@
 
 ---
 
-## 🏫 Обо мне | About Me
-
-```ascii
-╔═════════════════════════════════════════╗
-║    🎓 Студент института информатики    ║
-║       и кибернетики                   ║
-║    📚 Информационная безопасность     ║
-║       автоматизированных систем       ║
-║    🧪 Изучаю науку кибербезопасности ║
-╚═══════════════════════════════════════╝
-```
-
----
 
 ## 🛠️ Технологический арсенал | Tech Arsenal
 
@@ -87,12 +74,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### 🌩️ Облачные платформы | Cloud Platforms  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-
 </div>
 
 ---
@@ -119,11 +100,11 @@
 
 ### 🏅 Планируемые сертификации | Planned Certifications
 ```
-╔═══════════════════════════════════════════════════╗
-║  📜 CompTIA Security+                             ║
+╔════════════════════════════════════════════════════╗
+║  📜 CompTIA Security+                              ║
 ║  🔒 CEH (Certified Ethical Hacker)               ║  
 ║  🛡️  OSCP (Offensive Security Certified Prof.)   ║
-║  🌐 CISSP (долгосрочная цель)                     ║
+║  🌐 CISSP (долгосрочная цель)                    ║
 ║  ⚡ GCIH (GIAC Certified Incident Handler)       ║
 ║  🔍 GCFA (GIAC Certified Forensic Analyst)       ║
 ║  ☁️  AWS Security Specialty                      ║
@@ -212,12 +193,6 @@
 ---
 
 <div align="center">
-
-  <!-- Змейка коммитов -->
-  ![Snake eating my contributions](https://github.com/fxntmc0de/fxntmc0de/blob/output/github-contribution-grid-snake.svg)
-
-
-  **"Наука не знает границ, как и стремление защищать цифровой мир!"** 🛡️🧬
 
   <br>
 
