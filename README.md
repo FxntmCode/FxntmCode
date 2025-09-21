@@ -135,9 +135,6 @@
 
 <div align="center">
 
-  <!-- Хакер гифка -->
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
-
   <br><br>
 
   <!-- TryHackMe Profile Badge -->
@@ -145,12 +142,6 @@
           style='border:none; width:400px; height:200px;'></iframe>
 </div>
 
-**Текущий прогресс:**
-- 🏆 **Ранг:** Beginner Hacker  
-- 📈 **Активность:** Изучаю основы пентеста
-- 🎯 **Цель:** Достичь ранга "Script Kiddie"
-- 🔥 **Стрик:** Ежедневные задачи
-- 📊 **Комнаты:** Web Hacking, Network Security, Cryptography
 
 **🔗 Профиль:** [tryhackme.com/p/fxntmc0de](https://tryhackme.com/p/fxntmc0de)
 
@@ -190,113 +181,9 @@
 
 ---
 
-## 📊 GitHub Статистика | GitHub Stats
-
-<div align="center">
-
-  <!-- Статистика гифка -->
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
-
-  <br><br>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fxntmc0de&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxntmc0de&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fxntmc0de&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🧪 Научная лаборатория | Science Lab
-
-<div align="center">
-
-  <!-- Dr.Stone лаборатория -->
-  <img src="https://media.giphy.com/media/l4FGzNbFAew3bZrfG/giphy.gif" width="300"/>
-
-  <br>
-
-  > *"10 миллиардов процентов уверен, что наука побеждает всё!"*
-
-  <br>
-
-  <!-- Химическая реакция -->
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="280"/>
-
-</div>
-
----
-
-## 🚀 Проекты и достижения | Projects & Achievements
-
-<div align="center">
-
-  <!-- Код гифка -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
-
-</div>
-
-### 🔐 Кибербезопасность проекты | Cybersecurity Projects
-- 🛡️ **Vulnerability Scanner** - Автоматизированный сканер уязвимостей на Python
-- 🕵️ **Network Monitor** - Мониторинг сетевого трафика с анализом аномалий  
-- 🔒 **Password Manager** - Безопасный менеджер паролей с шифрованием
-- 🎯 **CTF Tools Collection** - Набор инструментов для соревнований CTF
-- 📡 **WiFi Security Auditor** - Аудит безопасности беспроводных сетей
-
-### 💻 Программирование | Development Projects
-- 🐍 **Python Security Scripts** - Коллекция скриптов для пентеста
-- 🌐 **Web Vulnerability Tester** - Тестер уязвимостей веб-приложений
-- 🔍 **Log Analyzer** - Анализатор логов безопасности
-- 🛠️ **Automation Tools** - Инструменты автоматизации для ИБ
-
-```python
-class CyberSecurityStudent:
-    def __init__(self):
-        self.name = "fxntmc0de"
-        self.role = "Студент кибербезопасности"
-        self.languages = ["C++", "C", "Python", "PHP", "JavaScript", "Bash"]
-        self.current_focus = "Ethical Hacking & Penetration Testing"
-        self.learning = [
-            "Network Security", "Web Application Security", 
-            "Malware Analysis", "Digital Forensics",
-            "Reverse Engineering", "Cloud Security"
-        ]
-        self.tools_mastering = [
-            "Burp Suite", "Metasploit", "Nmap", "Wireshark",
-            "John the Ripper", "Hashcat", "OWASP ZAP"
-        ]
-
-    def get_goals(self):
-        return [
-            "Получить степень по информационной безопасности",
-            "Стать сертифицированным этичным хакером", 
-            "Внести вклад в open-source проекты безопасности",
-            "Развить экспертизу в Cloud Security",
-            "Участвовать в Bug Bounty программах",
-            "Защищать цифровой мир через науку и технологии!"
-        ]
-
-    def current_learning_path(self):
-        return {
-            "Technical": ["Advanced Pentesting", "Malware Analysis", "Incident Response"],
-            "Certifications": ["OSCP", "CEH", "Security+"],
-            "Platforms": ["TryHackMe", "HackTheBox", "VulnHub"],
-            "CTF_Teams": ["Участие в команде института", "Solo challenges"]
-        }
-```
-
----
-
 ## 📈 Активность обучения | Learning Activity
 
 <div align="center">
-
-  <!-- Обучение мозга -->
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250"/>
-
-  <br><br>
 
 ### 🔥 Текущие курсы и пути | Current Learning Paths
 
