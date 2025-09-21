@@ -138,9 +138,7 @@
   <br><br>
 
   <!-- TryHackMe Profile Badge -->
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4046263" 
-          style='border:none; width:400px; height:200px;'></iframe>
-</div>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4046263" style='border:none;'></iframe>
 
 
 **🔗 Профиль:** [tryhackme.com/p/fxntmc0de](https://tryhackme.com/p/fxntmc0de)
@@ -199,12 +197,6 @@
 - ☁️ Cloud Computing Fundamentals
 - 🔐 Cryptography and Network Security
 
-**🏫 Университетские курсы:**
-- 📚 ИНМИН МИРЭА: Информационная безопасность АС
-- 🔒 Криптографические методы защиты информации
-- 🌐 Безопасность компьютерных сетей
-- ⚖️ Правовые основы информационной безопасности
-
 ### 📚 Изучаю углубленно | Deep Learning Areas
 - 🕸️ **Web Application Security** - OWASP Top 10, SQL Injection, XSS
 - 🌐 **Network Penetration Testing** - Advanced Nmap, Metasploit Framework  
@@ -214,60 +206,6 @@
 - 📡 **Wireless Security** - WiFi Pentesting, Bluetooth Hacking
 
 </div>
-
----
-
-## 🔬 Лабораторные эксперименты | Lab Experiments
-
-<div align="center">
-
-  <!-- Научный эксперимент -->
-  <img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" width="280"/>
-
-  <br>
-
-  <!-- Matrix код -->
-  <img src="https://media.giphy.com/media/zXmbOaTpbY6mA/giphy.gif" width="200"/>
-
-</div>
-
-### 🧪 Домашняя лаборатория | Home Lab Setup
-- 🖥️ **VMware vSphere** - Виртуальная инфраструктура
-- 🐧 **Kali Linux VM** - Основная pentesting машина
-- 🎯 **Vulnerable VMs** - VulnHub, DVWA, Metasploitable
-- 🔗 **Network Segmentation** - Изолированные сети для тестов
-- 📊 **SIEM** - ELK Stack для анализа логов
-
-```ascii
-┌─[fxntmc0de@kali]─[~/cybersec]
-└──╼ $ nmap -sS -sV -O target.thm
-Starting Nmap 7.94 ( https://nmap.org )
-Nmap scan report for target.thm (10.10.10.100)
-Host is up (0.045s latency).
-PORT     STATE SERVICE VERSION
-22/tcp   open  ssh     OpenSSH 7.6p1
-80/tcp   open  http    Apache httpd 2.4.29
-443/tcp  open  ssl/http Apache httpd 2.4.29
-🎯 Vulnerabilities detected!
-
-┌─[fxntmc0de@kali]─[~/tools]  
-└──╼ $ python3 exploit.py -t 10.10.10.100 -p 80
-[+] Starting scientific attack sequence! 🧬
-[+] Payload delivered successfully
-[+] Shell obtained! 💀
-
-┌─[fxntmc0de@kali]─[~/forensics]  
-└──╼ $ volatility -f memory.dump --profile=Win10x64_19041 pslist
-[+] Analyzing memory dump... 🔍
-[+] Suspicious processes found!
-[+] Investigation complete 🕵️
-
-┌─[fxntmc0de@kali]─[~/malware]
-└──╼ $ ghidra malware.exe
-[+] Loading binary for reverse engineering... 🔬
-[+] Analyzing assembly code...
-[+] Malware family identified! ⚠️
-```
 
 ---
 
