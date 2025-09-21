@@ -30,54 +30,38 @@
 <div align="center">
 
   
-### 💻 Языки программирования | Programming Languages
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🐧 Операционные системы | Operating Systems  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-
-### 🔧 IDE & Редакторы | Development Environment
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white)
-
-### 🔒 Инструменты кибербезопасности | Cybersecurity Tools
-
-#### 🕵️ Разведка и сканирование | Reconnaissance & Scanning
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Masscan](https://img.shields.io/badge/Masscan-FF6B35?style=for-the-badge&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-FF5733?style=for-the-badge&logoColor=white)
-
-#### 🌐 Web тестирование | Web Testing
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-4B0082?style=for-the-badge&logoColor=white)
 ![Gobuster](https://img.shields.io/badge/Gobuster-228B22?style=for-the-badge&logoColor=white)
 ![Dirbuster](https://img.shields.io/badge/Dirbuster-8B4513?style=for-the-badge&logoColor=white)
 ![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge&logoColor=white)
-
-#### 🔓 Эксплуатация | Exploitation
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logoColor=white)
 ![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-FF4500?style=for-the-badge&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-8B0000?style=for-the-badge&logoColor=white)
 ![Hashcat](https://img.shields.io/badge/Hashcat-FF6347?style=for-the-badge&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-006400?style=for-the-badge&logoColor=white)
-
-#### 📡 Сетевое тестирование | Network Testing
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TCPDump](https://img.shields.io/badge/TCPDump-4682B4?style=for-the-badge&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF1493?style=for-the-badge&logoColor=white)
 ![Ettercap](https://img.shields.io/badge/Ettercap-8B4513?style=for-the-badge&logoColor=white)
-
-### 🗄️ Базы данных | Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -116,22 +100,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
-
----
-
-## 🎮 Мотивация и цели | Motivation & Goals
-
-### 🎯 Краткосрочные цели (2025)
-- 🏆 Получить сертификат CompTIA Security+
-- 💼 Найти стажировку в области кибербезопасности
-- 🛡️ Разработать собственный security tool
-
-### 🚀 Долгосрочные цели (2025-2027)
-- 🎓 Завершить обучение по специальности ИБ АС
-- 🔐 Получить OSCP сертификацию
-- 💰 Заработать первые деньги на Bug Bounty
-- 🌐 Стать экспертом в Cloud Security
-- 👨‍💻 Присоединиться к Red Team крупной компании
 
 ---
 
