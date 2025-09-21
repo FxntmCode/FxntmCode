@@ -29,9 +29,7 @@
 
 <div align="center">
 
-  <!-- Анимация программиста -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
-
+  
 ### 💻 Языки программирования | Programming Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -88,7 +86,7 @@
 
 ---
 
-## 🎯 TryHackMe Профиль
+## 🎯 Мои достижения
 
 <div align="center">
 
@@ -101,59 +99,6 @@
 
 ---
 
-## 🎓 Сертификации и обучение | Certifications & Learning
-
-<div align="center">
-
-  <!-- Обучение гифка -->
-  <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250"/>
-
-### 🏅 Планируемые сертификации | Planned Certifications
-```
-╔════════════════════════════════════════════════════╗
-║  📜 CompTIA Security+                              ║
-║  🔒 CEH (Certified Ethical Hacker)               ║  
-║  🛡️  OSCP (Offensive Security Certified Prof.)   ║
-║  🌐 CISSP (долгосрочная цель)                    ║
-║  ⚡ GCIH (GIAC Certified Incident Handler)       ║
-║  🔍 GCFA (GIAC Certified Forensic Analyst)       ║
-║  ☁️  AWS Security Specialty                      ║
-║  🐧 RHCSA (Red Hat Certified System Admin)       ║
-╚═══════════════════════════════════════════════════╝
-```
-</div>
-
----
-
-## 📈 Активность обучения | Learning Activity
-
-<div align="center">
-
-### 🔥 Текущие курсы и пути | Current Learning Paths
-
-**🎯 TryHackMe Learning Paths:**
-- ✅ Pre Security Path (завершен)
-- 🔄 Web Fundamentals Path (в процессе)
-- 📋 Penetration Testing Path (запланирован)
-- 🛡️ Cyber Defense Path (запланирован)
-
-**💻 Codecademy & Online:**
-- 🐍 Python for Cybersecurity
-- 🌐 Computer Science Path
-- ☁️ Cloud Computing Fundamentals
-- 🔐 Cryptography and Network Security
-
-### 📚 Изучаю углубленно | Deep Learning Areas
-- 🕸️ **Web Application Security** - OWASP Top 10, SQL Injection, XSS
-- 🌐 **Network Penetration Testing** - Advanced Nmap, Metasploit Framework  
-- 🔍 **Digital Forensics** - Memory Analysis, Disk Forensics
-- 🦠 **Malware Analysis** - Static & Dynamic Analysis, Reverse Engineering
-- ☁️ **Cloud Security** - AWS/Azure Security, Container Security
-- 📡 **Wireless Security** - WiFi Pentesting, Bluetooth Hacking
-
-</div>
-
----
 
 ## 🤝 Связь со мной | Connect with Me
 
@@ -190,11 +135,6 @@
 
 ---
 
-<div align="center">
-
-  <br>
-
-  ![Visitor Count](https://komarev.com/ghpvc/?username=fxntmc0de&color=brightgreen)
-
-</div>
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JohnKun136NVCP/JohnKun136NVCP/output/github-contribution-grid-snake.svggh-light-mode-only)
 
