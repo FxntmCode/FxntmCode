@@ -131,15 +131,14 @@
 
 ---
 
-## 🎯 TryHackMe Профиль | Hacking Journey
+## 🎯 TryHackMe Профиль
 
 <div align="center">
 
   <br><br>
 
   <!-- TryHackMe Profile Badge -->
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4046263" style='border:none;'></iframe>
-
+  <img src="https://tryhackme-badges.s3.amazonaws.com/fxntmc0de.png" alt="Your Image Badge" />
 
 **🔗 Профиль:** [tryhackme.com/p/fxntmc0de](https://tryhackme.com/p/fxntmc0de)
 
