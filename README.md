@@ -3,14 +3,12 @@
 <div align="center">
 
   <!-- Заголовочная гифка -->
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" height="200"/>
+  <img src="https://i.pinimg.com/originals/b3/85/69/b385694f382ef98190040916c0efdda1.gif"/>
 
   *"Наука - это магия нашего времени!"*
 
   <br><br>
 
-  <!-- Дополнительная анимация -->
-  <img src="https://media.giphy.com/media/26AHPxxnSw1L9T1rW/giphy.gif" width="400"/>
 
 </div>
 
@@ -18,17 +16,13 @@
 
 ## 🏫 Обо мне | About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/l41lGvinEgARjB2H6/giphy.gif" width="150"/>
-</div>
-
 ```ascii
-╔═══════════════════════════════════════╗
+╔═════════════════════════════════════════╗
 ║    🎓 Студент института информатики    ║
 ║       и кибернетики                   ║
 ║    📚 Информационная безопасность     ║
 ║       автоматизированных систем       ║
-║    🧪 Изучаю науку кибербезопасности! ║
+║    🧪 Изучаю науку кибербезопасности ║
 ╚═══════════════════════════════════════╝
 ```
 
@@ -46,24 +40,18 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-FF6600?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### 🐧 Операционные системы | Operating Systems  
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
 
 ### 🔧 IDE & Редакторы | Development Environment
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white)
 
 ### 🔒 Инструменты кибербезопасности | Cybersecurity Tools
@@ -71,10 +59,7 @@
 #### 🕵️ Разведка и сканирование | Reconnaissance & Scanning
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Masscan](https://img.shields.io/badge/Masscan-FF6B35?style=for-the-badge&logoColor=white)
-![Rustscan](https://img.shields.io/badge/Rustscan-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shodan](https://img.shields.io/badge/Shodan-FF5733?style=for-the-badge&logoColor=white)
-![theHarvester](https://img.shields.io/badge/theHarvester-8B4513?style=for-the-badge&logoColor=white)
-![Amass](https://img.shields.io/badge/Amass-2E8B57?style=for-the-badge&logoColor=white)
 
 #### 🌐 Web тестирование | Web Testing
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white)
@@ -96,30 +81,11 @@
 ![TCPDump](https://img.shields.io/badge/TCPDump-4682B4?style=for-the-badge&logoColor=white)
 ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF1493?style=for-the-badge&logoColor=white)
 ![Ettercap](https://img.shields.io/badge/Ettercap-8B4513?style=for-the-badge&logoColor=white)
-![Responder](https://img.shields.io/badge/Responder-DC143C?style=for-the-badge&logoColor=white)
-
-#### 🔍 Форензика | Digital Forensics
-![Autopsy](https://img.shields.io/badge/Autopsy-4169E1?style=for-the-badge&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-800080?style=for-the-badge&logoColor=white)
-![Binwalk](https://img.shields.io/badge/Binwalk-228B22?style=for-the-badge&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-FF4500?style=for-the-badge&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-000080?style=for-the-badge&logoColor=white)
-
-### 🏗️ DevOps & Инфраструктура | DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🗄️ Базы данных | Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🌩️ Облачные платформы | Cloud Platforms  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -164,16 +130,6 @@
 ║  🐧 RHCSA (Red Hat Certified System Admin)       ║
 ╚═══════════════════════════════════════════════════╝
 ```
-
-### 💻 Образовательные платформы | Learning Platforms
-<a href="https://www.codecademy.com/profiles/Fxntm">
-  <img src="https://img.shields.io/badge/Codecademy-FFF0E6?style=for-the-badge&logo=codecademy&logoColor=303347" alt="Codecademy Profile"/>
-</a>
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-<img src="https://img.shields.io/badge/Coursera-0056D3?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
-<img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy"/>
-
 </div>
 
 ---
