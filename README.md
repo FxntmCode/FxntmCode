@@ -88,16 +88,13 @@
 
 <div align="center">
 
-  <!-- Социальные сети гифка -->
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="150"/>
-
   <br><br>
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/fxntmc0de)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E6?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/Fxntm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fxntmc0de)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KTN100001)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/artem-sutyagin-592459349/])
 
 </div>
 
