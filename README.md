@@ -396,9 +396,8 @@ PORT     STATE SERVICE VERSION
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/fxntmc0de)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E6?style=for-the-badge&logo=codecademy&logoColor=303347)](https://www.codecademy.com/profiles/Fxntm)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fxntmc0de)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KTN100001)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
 
 </div>
 
@@ -413,40 +412,10 @@ PORT     STATE SERVICE VERSION
 
 </div>
 
-```ascii
-    🧪 Научно-хакерские факты:
-    ┌─────────────────────────────────────────┐
-    │ • Изучаю кибербезопасность с научным    │
-    │   подходом как Сенку изучает химию      │
-    │ • Коллекционирую CVE и 0-day exploits   │
-    │ • Мечтаю о карьере в Red Team           │
-    │ • Участвую в CTF соревнованиях          │
-    │ • Пишу security tools на Python        │
-    │ • Анализирую malware в свободное время  │
-    │ • Верю что наука + хакинг = безопасный  │
-    │   цифровой мир! 🌍🛡️                   │
-    └─────────────────────────────────────────┘
-```
 
 ---
 
 ## 🎮 Мотивация и цели | Motivation & Goals
-
-<div align="center">
-
-  <!-- Dr.Stone вдохновляющая гифка -->
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="300"/>
-
-  <br>
-
-  **"Каждая строчка кода - это формула защиты цифрового мира!"** 
-
-  <br>
-
-  <!-- Взрыв энергии -->
-  <img src="https://media.giphy.com/media/BpGWitbFZflfSUYuZ9/giphy.gif" width="250"/>
-
-</div>
 
 ### 🎯 Краткосрочные цели (2025)
 - 🏆 Получить сертификат CompTIA Security+
