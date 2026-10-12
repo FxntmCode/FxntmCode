@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td width="46%" align="center">
-  <img src="assets/senku.png" alt="Senku Ishigami" width="100%"><br>
+  <img src="assets/senku.gif" alt="Senku Ishigami" width="100%"><br>
   <sub><i>10 billion percent sure.</i></sub>
 </td>
 <td width="54%" valign="top">
