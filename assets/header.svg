@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#3ddc97"/><stop offset="1" stop-color="#58a6ff"/></linearGradient></defs>
+<rect x="1" y="1" width="878" height="298" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 40h878" stroke="#30363d"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f56"/><circle cx="44" cy="21" r="6" fill="#ffbd2e"/><circle cx="64" cy="21" r="6" fill="#27c93f"/>
+<text x="440" y="26" font-size="12" fill="#8b949e" text-anchor="middle">fxntmcode@kingdom-of-science: ~</text>
+<clipPath id="c1"><rect x="40" y="74" width="0" height="22.4"><animate attributeName="width" from="0" to="200" begin="0.3s" dur="0.6s" fill="freeze"/></rect></clipPath><text x="40" y="90" font-size="16" fill="#3ddc97" font-weight="normal" clip-path="url(#c1)">$ whoami</text>
+<clipPath id="c2"><rect x="40" y="98" width="0" height="70.0"><animate attributeName="width" from="0" to="300" begin="1.0s" dur="0.6s" fill="freeze"/></rect></clipPath><text x="40" y="148" font-size="50" fill="#f0f6fc" font-weight="bold" clip-path="url(#c2)">FxntmCode</text>
+<rect x="318" y="118" width="14" height="34" fill="#3ddc97"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<clipPath id="c3"><rect x="40" y="180" width="0" height="22.4"><animate attributeName="width" from="0" to="560" begin="2.2s" dur="2.6500000000000004s" fill="freeze"/></rect></clipPath><text x="40" y="196" font-size="16" fill="#c9d1d9" font-weight="normal" clip-path="url(#c3)">&gt; Information Security Student  ·  Pentest  ·  CTF</text>
+<clipPath id="c4"><rect x="40" y="208" width="0" height="22.4"><animate attributeName="width" from="0" to="520" begin="3.6s" dur="2.15s" fill="freeze"/></rect></clipPath><text x="40" y="224" font-size="16" fill="#c9d1d9" font-weight="normal" clip-path="url(#c4)">&gt; status: building my Kingdom of Science</text>
+<clipPath id="c5"><rect x="40" y="238" width="0" height="19.599999999999998"><animate attributeName="width" from="0" to="520" begin="5.0s" dur="2.5s" fill="freeze"/></rect></clipPath><text x="40" y="252" font-size="14" fill="#8b949e" font-weight="normal" clip-path="url(#c5)">&gt; “This is exhilarating!”  —  10 billion % sure</text>
+<g transform="translate(690,70)">
+<rect width="150" height="180" rx="10" fill="#0f1a16" stroke="url(#g)" stroke-width="2"/>
+<text x="12" y="26" font-size="16" fill="#8b949e">10</text>
+<text x="138" y="26" font-size="12" fill="#8b949e" text-anchor="end">Z</text>
+<text x="75" y="105" font-size="70" font-weight="bold" fill="url(#g)" text-anchor="middle">Sc</text>
+<text x="75" y="132" font-size="13" letter-spacing="3" fill="#c9d1d9" text-anchor="middle">SCIENCE</text>
+<text x="75" y="160" font-size="12" fill="#3ddc97" text-anchor="middle">10⁹ %</text>
+</g></svg>
