@@ -35,8 +35,7 @@
 
 ## 📡 Contact
 
-[**TryHackMe**](https://tryhackme.com/p/fxntmc0de) &nbsp;·&nbsp; [**Telegram**](https://t.me/) &nbsp;·&nbsp; [**LinkedIn**](https://linkedin.com/) &nbsp;·&nbsp; [**Codecademy**](https://codecademy.com/)
-
+[**TryHackMe**](https://tryhackme.com/p/fxntmc0de) &nbsp;·&nbsp; [**Telegram**](https://t.me/fxxxntm) &nbsp;·&nbsp;
 
 <div align="center">
   <img src="assets/footer.svg" alt="Science is the magic of our time" width="100%">
