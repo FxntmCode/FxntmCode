@@ -39,3 +39,7 @@
 <div align="center">
   <img src="assets/footer.svg" alt="Science is the magic of our time" width="100%">
 </div>
+
+<div align="center">
+  <img src="assets/larp.svg" alt="larp-larp" width="100%">
+</div>
